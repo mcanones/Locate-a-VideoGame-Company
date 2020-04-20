@@ -45,7 +45,7 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 - Nightclub: Gatsby's Speakeasy (<500m)
 - Airport: Billy Bishop Toronto City Airport (<500m)
 - Starbucks: 580 Queen St W, Toronto, ON M5V 2B5, Canada (<500m)
-- Design company: Counter Design Studio Toronto (<1km)
+- Design company: Counter Design Studio Toronto (<2km)
 
 <p align="center">
  <img src="output/Toronto.png"/>
