@@ -5,7 +5,7 @@ import pandas as pd
 def GeoQueryMongo(address):
     try:
         
-        query = getOfficeNear(address, maxDist=2000)
+        query = getOfficeNear(address, maxDist=700)
 
         client = MongoClient(f"mongodb://localhost/companies")
         db = client.get_database()

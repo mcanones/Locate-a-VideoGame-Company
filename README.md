@@ -38,15 +38,14 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 
 ## Final location
 
-**Latitude**: 43.6437 //
-**Longitude**: -79.4039
-- Name of the company: [Batipi](https://www.batipi.com)
-- Preschool: Alexandra Park Early Learning and Child Care Centre (<20km)
-- Nightclub: Gatsby's Speakeasy (<500m)
-- Airport: Billy Bishop Toronto City Airport (<500m)
-- Starbucks: 580 Queen St W, Toronto, ON M5V 2B5, Canada (<500m)
-- Design company: Counter Design Studio Toronto (<2km)
+**Latitude**: 42.3533 //
+**Longitude**: -71.0627
+- Name of the company: [SnapYap](https://www.crunchbase.com/organization/snapyap#section-overview)
+- Preschool: Emerson colleague 200m
+- Club: Sip Wine Bar <250m
+- Airport: 4.8km
+- Starbucks: 22m
 
 <p align="center">
- <img src="output/Toronto.png"/>
+ <img src="output/Boston.png"/>
 </p>
