@@ -32,9 +32,14 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 
 3. Filter dataset: drop those offices from `companies_mining.json` that doesn't meet all the requirements (Starbucks, Preschool, Disco, Airport nearby, etc.). The result will be saved in `companies_selected.json` in the `output` folder. 
 
-4. Represent the latitude and longitude coordinates in Tableau (or other graphic tool) for the offices, airports, starbucks, etc. These will be grouped by company name, i.e. each office should have few locations nearby of the same color (Spoiler: see pictures below).
+4. Represent the latitude and longitude coordinates in Tableau (or other graphic tool) for the offices, airports, starbucks, etc. These will be grouped by company name, i.e. each office should have few locations nearby of the same color.
 
 5. Additionally, Crunch API has been used to find UX-desing companies given a specific location. Once we have the `name` and the `city` of the company, we can send a geoquery to MongoDB to check if we have companies in in `companies_selected.json` that are close to the provided geopoint by doing a `$near` query. 
+
+## Final location
+
+**Latitude**: 43.6437
+**Longitude**: -79.4039
 
 <p align="center">
  <img src="output/Toronto.png"/>
