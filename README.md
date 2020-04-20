@@ -38,8 +38,13 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 
 ## Final location
 
-**Latitude**: 43.6437
+**Latitude**: 43.6437 //
 **Longitude**: -79.4039
+- Preschool: Alexandra Park Early Learning and Child Care Centre.
+- Nightclub: Gatsby's Speakeasy.
+- Airport: Billy Bishop Toronto City Airport.
+- Starbucks: 580 Queen St W, Toronto, ON M5V 2B5, Canada.
+- Design company: Switch Creative Solutions Inc.
 
 <p align="center">
  <img src="output/Toronto.png"/>
