@@ -40,11 +40,12 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 
 **Latitude**: 42.3533 //
 **Longitude**: -71.0627
-- Name of the company: [SnapYap](https://www.crunchbase.com/organization/snapyap#section-overview)
-- Preschool: Emerson colleague 200m
-- Club: Sip Wine Bar <250m
-- Airport: 4.8km
-- Starbucks: 22m
+💼 Name of the company: [SnapYap](https://www.crunchbase.com/organization/snapyap#section-overview)
+📍 Preschool: Emerson colleague 200m
+📍 Club: Sip Wine Bar <250m
+📍 Airport: 4.8km
+📍Starbucks: 22m
+📍 UX-Design Company: Essential Design Boston 700m
 
 <p align="center">
  <img src="output/Boston.png"/>
