@@ -34,17 +34,18 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 
 4. Represent the latitude and longitude coordinates in Tableau (or other graphic tool) for the offices, airports, starbucks, etc. These will be grouped by company name, i.e. each office should have few locations nearby of the same color.
 
-5. Additionally, Crunch API has been used to find UX-desing companies given a specific location. Once we have the `name` and the `city` of the company, we can send a geoquery to MongoDB to check if we have companies in in `companies_selected.json` that are close to the provided geopoint by doing a `$near` query. 
+5. Additionally, Crunch API has been used to find UX-desing companies given a specific location. Once we have the `name` and the `city` of the company, we can send a geoquery to MongoDB to check if there are companies in `companies_selected.json` close to the provided geopoint by doing a `$near` query. 
 
 ## Final location
 
 **Latitude**: 43.6437 //
 **Longitude**: -79.4039
-- Preschool: Alexandra Park Early Learning and Child Care Centre.
-- Nightclub: Gatsby's Speakeasy.
-- Airport: Billy Bishop Toronto City Airport.
-- Starbucks: 580 Queen St W, Toronto, ON M5V 2B5, Canada.
-- Design company: Switch Creative Solutions Inc.
+- Name of the company: [Batipi](https://www.batipi.com)
+- Preschool: Alexandra Park Early Learning and Child Care Centre (<20km)
+- Nightclub: Gatsby's Speakeasy (<500m)
+- Airport: Billy Bishop Toronto City Airport (<500m)
+- Starbucks: 580 Queen St W, Toronto, ON M5V 2B5, Canada (<500m)
+- Design company: Counter Design Studio Toronto (<1km)
 
 <p align="center">
  <img src="output/Toronto.png"/>
