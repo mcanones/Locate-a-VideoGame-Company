@@ -37,9 +37,5 @@ The aim of this project is to locate the offices of a new company in the `GAMING
 5. Additionally, Crunch API has been used to find UX-desing companies given a specific location. Once we have the `name` and the `city` of the company, we can send a geoquery to MongoDB to check if we have companies in in `companies_selected.json` that are close to the provided geopoint by doing a `$near` query. 
 
 <p align="center">
- <img src="output/Sydney_1.png"/>
-</p>
-
-<p align="center">
- <img src="output/Sydney_2.png"/>
+ <img src="output/Toronto.png"/>
 </p>
